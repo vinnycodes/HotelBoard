@@ -23,3 +23,7 @@
     --shadow-light: 0 2rem 5rem rgba(0, 0, 0, 0.6); // BORDER 
     --line: 1px solid var(--grey-light-2);
 }
+
+// Media Queries 
+$bp-largest: 75rem; // 1200px
+$bp-large: 68.75rem; // 1100px
